@@ -155,17 +155,27 @@ Buscando transformar processos complexos ou repetitivos em soluções **simples,
 
 ---
 
-# 📊 GITHUB STATS
+<h2>📊 PLAYER STATISTICS</h2>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ViCodax\&show_icons=true\&theme=dark)
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=ViCodax&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark&bg_color=0D1117&title_color=00FF66&icon_color=00FF66&text_color=FFFFFF&custom_title=PLAYER%20STATISTICS"
+    height="180"
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViCodax&layout=compact&hide_border=true&theme=dark&bg_color=0D1117&title_color=00FF66&text_color=FFFFFF&custom_title=SKILL%20DISTRIBUTION"
+    height="180"
+  />
+</p>
 
 ---
 
 # 🌐 CONNECT
 
-💼 **LinkedIn:** [Vinicius](https://www.linkedin.com/in/viniciuscdantas/)
+💼 **LinkedIn:** [Vinicius Correia](https://www.linkedin.com/in/viniciuscdantas/)
 
-💻 **GitHub:** [@SEU_USUARIO](https://github.com/ViCodax)
+💻 **GitHub:** [@ViCodax](https://github.com/ViCodax)
 
 ---
 
