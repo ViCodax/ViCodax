@@ -1,88 +1,184 @@
-# 👋 Olá, eu sou Vinicius!
+# 🎮 PLAYER: VINICIUS
 
-Sou **Analista de Suporte** e estudante de **Gestão de Tecnologia da Informação**, com experiência em suporte técnico, infraestrutura e atendimento N2.
+> **CLASS: AUTOMATIZER** ⚙️
+> *Transformando problemas reais em soluções automatizadas.*
 
-Atualmente, venho direcionando minha carreira para **automação de processos, dados, Analytics e Inteligência Artificial**, buscando transformar atividades repetitivas em soluções mais eficientes, escaláveis e inteligentes.
+Olá! 👋 Sou **Vinicius**, Analista de Workplace e estudante de **Gestão de Tecnologia da Informação**.
 
-## 🚀 Sobre mim
+Minha jornada começou no suporte técnico e infraestrutura, mas atualmente estou evoluindo meu personagem para uma área que me interessa cada vez mais: **Automação, Dados, Analytics e Inteligência Artificial**.
 
-* 💻 Experiência com **suporte técnico, infraestrutura e Field Services**
-* ⚙️ Interesse e experiência prática em **automação de processos**
-* 📊 Desenvolvimento de soluções com **Power BI e análise de dados**
-* 🐍 Conhecimentos em **Python**
-* 🗄️ Conhecimentos em **MySQL**
-* ☕ Conhecimentos em **Java**
-* 💻 Automação e administração de ambientes **Windows/PowerShell**
-* 🤖 Interesse em **IA, agentes e integração de sistemas**
-* 🎓 Cursando **Gestão de Tecnologia da Informação**
-
-## 🛠️ Tecnologias e ferramentas
-
-### Linguagens
-
-* Python
-* Java
-* PowerShell
-* SQL
-
-### Dados & Analytics
-
-* Power BI
-* MySQL
-* Excel
-
-### Automação & IA
-
-* PowerShell
-* Automação de processos
-* Microsoft Copilot
-* Integração de sistemas
-* Agentes de IA
-
-### Infraestrutura & Suporte
-
-* Windows
-* Active Directory
-* ITSM
-* SAP
-* Redes
-* Hardware
-* Field Services
-
-## 🔥 Projetos em destaque
-
-### 🏢 Workplace Automation Platform
-
-Projeto voltado à **automação de processos de Workplace/Service Desk**, utilizando scripts, integração de dados e agentes de IA para reduzir atividades manuais e otimizar o atendimento de TI.
-
-### 📄 Central de Termos Workplace
-
-Solução para automatizar a criação de **Termos de Entrega, Devolução e Entrega/Devolução de equipamentos**, realizando consultas de dados corporativos e de ativos para preencher os documentos automaticamente.
-
-### ⚙️ Automação de Rotinas de TI
-
-Conjunto de scripts para automatizar tarefas recorrentes de suporte, como manutenção do Windows, limpeza de caches, instalação de ferramentas e recuperação de arquivos/configurações.
-
-## 🎯 Atualmente estudando
-
-Estou aprofundando meus conhecimentos em:
-
-* Automação e RPA
-* Python aplicado à automação
-* Dados e Analytics
-* Power BI
-* Inteligência Artificial
-* Integração de sistemas e APIs
-* Desenvolvimento de agentes de IA
-
-## 💡 Meus interesses
-
-Tenho interesse em desenvolver soluções que conectem **TI, automação, dados e inteligência artificial**, principalmente para resolver problemas reais do dia a dia e melhorar processos.
-
-> **Transformar tarefas repetitivas em soluções inteligentes.**
+Gosto de entender como as coisas funcionam, identificar processos repetitivos e transformar essas tarefas em soluções que realmente economizem tempo e reduzam trabalho manual.
 
 ---
 
-📫 **Vamos conectar?**
+## 🧬 PLAYER PROFILE
 
-[LinkedIn](https://www.linkedin.com/in/viniciuscdantas/) • [GitHub](https://github.com/ViCodax)
+```text
+┌──────────────────────────────────────────────┐
+│ PLAYER: VINICIUS                             │
+├──────────────────────────────────────────────┤
+│ CLASS     : AUTOMATIZER                      │
+│ LEVEL     : 26                               │
+│ ROLE      : WORKPLACE ANALYST                │
+│ FOCUS     : AUTOMATION / DATA / AI           │
+│ STATUS    : BUILDING & LEARNING              │
+└──────────────────────────────────────────────┘
+```
+
+### ❤️ HP — Experiência
+
+* Suporte técnico e infraestrutura
+* Field Services / atendimento N2
+* Troubleshooting de ambientes Windows
+* Hardware e redes
+* ITSM e atendimento corporativo
+* Automação de rotinas de suporte
+
+### ⚡ MP — Tecnologias
+
+**Linguagens**
+
+* 🐍 Python
+* ☕ Java
+* 💻 PowerShell
+* 🗄️ SQL
+
+**Dados & Analytics**
+
+* 📊 Power BI
+* 🗃️ MySQL
+* 📑 Excel
+
+**Automação & IA**
+
+* ⚙️ Automação de processos
+* 🤖 Microsoft Copilot
+* 🔗 Integração de sistemas e APIs
+* 🧠 Agentes de IA
+* 🔄 RPA
+
+**Infraestrutura**
+
+* 🪟 Windows
+* 👥 Active Directory
+* 🎫 ITSM
+* 🖥️ Field Services
+* 🌐 Redes
+
+---
+
+# ⚔️ QUESTS — Projetos
+
+## 🏢 Workplace Automation Platform
+
+**Status:** `ACTIVE DEVELOPMENT`
+
+Uma iniciativa focada em transformar processos operacionais de Workplace/Service Desk em fluxos automatizados.
+
+O projeto reúne **scripts, automação, integração de dados, agentes de IA e análise de informações**, buscando reduzir tarefas manuais e tornar o atendimento de TI mais eficiente.
+
+**Skills utilizadas:**
+
+`PowerShell` `Python` `Automation` `AI` `Data` `Power BI`
+
+---
+
+## 📄 Central de Termos Workplace
+
+**Status:** `IN PROGRESS`
+
+Agente desenvolvido para automatizar a criação de documentos de **Entrega, Devolução e Entrega/Devolução de equipamentos**.
+
+A solução identifica o tipo de solicitação e consulta automaticamente informações corporativas e de ativos para preencher os documentos, reduzindo o trabalho manual e padronizando o processo.
+
+**Skills utilizadas:**
+
+`AI Agents` `Automation` `Integration` `Data`
+
+---
+
+**Skills utilizadas:**
+
+`PowerShell` `Windows` `Automation` `IT Support`
+
+---
+
+# 🧠 SKILL TREE
+
+```text
+                    ┌──────────────┐
+                    │      TI      │
+                    └──────┬───────┘
+                           │
+             ┌─────────────┼─────────────┐
+             ▼             ▼             ▼
+        AUTOMATION       DATA           AI
+             │             │             │
+        PowerShell      Power BI      Copilot
+        Python          MySQL         AI Agents
+        RPA             Analytics     Integration
+             │             │             │
+             └─────────────┼─────────────┘
+                           ▼
+                  SOLUTIONS THAT
+                  SOLVE REAL PROBLEMS
+```
+
+---
+
+# 📚 CURRENT QUEST
+
+Atualmente estou aprofundando meus conhecimentos em:
+
+* 🤖 Inteligência Artificial
+* ⚙️ Automação e RPA
+* 🐍 Python aplicado à automação
+* 📊 Dados e Analytics
+* 📈 Power BI
+* 🔗 APIs e integração de sistemas
+* 🧠 Agentes de IA
+* ☁️ Tecnologias e soluções para ambientes corporativos
+
+🎓 **Education:** Gestão de Tecnologia da Informação — `IN PROGRESS`
+
+---
+
+# 🎯 MAIN OBJECTIVE
+
+Meu objetivo é continuar evoluindo na interseção entre:
+
+**TI + AUTOMATION + DATA + AI**
+
+Buscando transformar processos complexos ou repetitivos em soluções **simples, eficientes e inteligentes**.
+
+> *“If it happens twice, maybe it can be automated.”* ⚙️
+
+---
+
+# 📊 GITHUB STATS
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ViCodax\&show_icons=true\&theme=dark)
+
+---
+
+# 🌐 CONNECT
+
+💼 **LinkedIn:** [Vinicius](https://www.linkedin.com/in/viniciuscdantas/)
+
+💻 **GitHub:** [@SEU_USUARIO](https://github.com/ViCodax)
+
+---
+
+```text
+┌──────────────────────────────────────────────┐
+│                                              │
+│       PLAYER STATUS: BUILDING...             │
+│                                              │
+│       [████████████████░░░░] 80%             │
+│                                              │
+│       NEXT LEVEL → AUTOMATION ENGINEER       │
+│                                              │
+└──────────────────────────────────────────────┘
+```
+
+⭐ *Thanks for visiting my profile. Feel free to explore my quests, projects and experiments.*
