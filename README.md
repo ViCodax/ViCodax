@@ -102,14 +102,14 @@ Agente de IA em Microsoft Copilot Studio que automatiza a geração de documento
 ## 📊 GitHub Stats
 
 <div align="center">
-
+<!--
 <img src="https://github-readme-stats.vercel.app/api?username=ViCodax&show_icons=true&hide_border=true&bg_color=0b241c&title_color=34ffb0&icon_color=22c55e&text_color=eafff5" width="49%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViCodax&layout=compact&hide_border=true&bg_color=0b241c&title_color=34ffb0&text_color=eafff5" width="35%" />
-
-<br/>
-<!--
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ViCodax&background=0b241c&ring=22c55e&fire=34ffb0&currStreakLabel=eafff5&sideNums=eafff5&sideLabels=93c2ac&dates=93c2ac&border=0b241c&hide_border=true" width="60%" />
 -->
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ViCodax&background=0b241c&ring=22c55e&fire=34ffb0&currStreakLabel=eafff5&sideNums=eafff5&sideLabels=93c2ac&dates=93c2ac&border=0b241c&hide_border=true" width="60%" />
+
 </div>
 
 <br/>
