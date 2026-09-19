@@ -79,7 +79,7 @@ Gosto de identificar tarefas repetitivas e transformá-las em ferramentas de aut
 <tr>
 <td width="50%" valign="top">
 
-### ⚙️ [Workplace Automation Platform (WAP)](https://github.com/ViCodax/Workplace-Automation-Platform-ptbr)
+### ⚙️ [Workplace Automation Platform (WAP)](https://github.com/ViCodax/Workplace-Automation-Platform)
 
 Toolkit de automação em PowerShell para suporte Workplace — reduz tarefas manuais, padroniza troubleshooting e permite distribuição centralizada via SCCM.
 
