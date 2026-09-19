@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner: substitua pela sua imagem de banner (ex: assets/banner.jpg) após subir no repositório -->
-<img src="assets/banner.jpg" alt="Banner" width="100%" />
+<img src="assets/banner.png" alt="Banner" width="100%" />
 
 <br/>
 
@@ -16,6 +16,7 @@
 <a href="https://www.linkedin.com/in/viniciuscdantas"><img src="https://img.shields.io/badge/LinkedIn-viniciuscdantas-22C55E?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b241c" /></a>
 <a href="mailto:vdasilva2309@gmail.com"><img src="https://img.shields.io/badge/Email-vdasilva2309%40gmail.com-22C55E?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b241c" /></a>
 <a href="https://github.com/ViCodax"><img src="https://img.shields.io/badge/GitHub-ViCodax-22C55E?style=for-the-badge&logo=github&logoColor=white&labelColor=0b241c" /></a>
+<a href="https://vicodax.github.io/Curriculo-Digital/"><img src="https://img.shields.io/badge/Curr%C3%ADculo-Virtual-22C55E?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=0b241c" /></a>
 
 </div>
 
